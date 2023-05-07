@@ -13,6 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "jest": {
+    "testEnvironment": "node"
+  },
   "devDependencies": {
     "jest": "^29.5.0",
     "nodemon": "^2.0.22",
